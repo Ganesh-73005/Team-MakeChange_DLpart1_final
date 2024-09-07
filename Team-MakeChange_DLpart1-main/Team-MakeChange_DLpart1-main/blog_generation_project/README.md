@@ -93,4 +93,4 @@ The repository includes code for fine-tuning the BERT model on custom data. To t
 
 ## License
 
-[../LICENSE]
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
