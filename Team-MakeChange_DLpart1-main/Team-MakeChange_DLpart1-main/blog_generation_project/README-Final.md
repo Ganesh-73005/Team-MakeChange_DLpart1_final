@@ -91,7 +91,7 @@ The repository includes code for fine-tuning the BERT model on custom data. To t
 3. Run the training code as provided in the script.
 
 ## Output
-![image](../1.)
+![image](./Screenshot 2024-09-07 164631.png)
 ![image](../1.)
 
 
