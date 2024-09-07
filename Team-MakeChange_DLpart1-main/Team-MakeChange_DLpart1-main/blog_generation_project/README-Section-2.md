@@ -1,7 +1,7 @@
 
 
-```markdown
-# WikiHow Heading Generation
+
+## WikiHow Heading Generation
 
 This repository contains the code for a heading generation model for WikiHow articles. The model is trained using a fine-tuned LED (Language Model for Dialogue Applications) model from Hugging Face.
 
