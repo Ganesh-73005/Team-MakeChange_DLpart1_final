@@ -90,6 +90,10 @@ The repository includes code for fine-tuning the BERT model on custom data. To t
    ```
 3. Run the training code as provided in the script.
 
+## Output
+![image](../1.)
+![image](../1.)
+
 
 ## License
 
