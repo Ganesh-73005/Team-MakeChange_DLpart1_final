@@ -12,7 +12,7 @@ This project provides a machine learning solution for automatically generating h
 
 ## Requirements
 
-- Python 3.7+
+- Python 3+
 - PyTorch
 - Transformers library
 - Datasets library
