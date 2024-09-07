@@ -1,5 +1,7 @@
 # WikiHow Content Generation
-
+please do refer below files before reading these:
+[README1](./README-Section-1.md)
+[README2](./README-Section-2.md)
 This project provides a machine learning solution for automatically generating headings, summaries, and tags for WikiHow-style articles. It uses state-of-the-art language models to process input paragraphs and produce relevant content.
 
 ## Features
