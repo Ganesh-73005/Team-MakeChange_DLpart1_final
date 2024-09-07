@@ -93,4 +93,4 @@ The repository includes code for fine-tuning the BERT model on custom data. To t
 
 ## License
 
-[./LICENSE]
+[../LICENSE]
