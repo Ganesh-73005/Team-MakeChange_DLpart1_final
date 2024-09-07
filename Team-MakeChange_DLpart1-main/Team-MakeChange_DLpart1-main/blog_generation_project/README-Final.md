@@ -92,7 +92,8 @@ The repository includes code for fine-tuning the BERT model on custom data. To t
 
 ## Output
 ![image](https://github.com/Ganesh-73005/Team-MakeChange_DLpart1_final/blob/main/Team-MakeChange_DLpart1-main/Team-MakeChange_DLpart1-main/blog_generation_project/Screenshot%202024-09-07%20164646.png)
-![image](../1.)
+
+![image](https://github.com/Ganesh-73005/Team-MakeChange_DLpart1_final/blob/main/Team-MakeChange_DLpart1-main/Team-MakeChange_DLpart1-main/blog_generation_project/Screenshot%202024-09-07%20164631.png)
 
 
 ## License
