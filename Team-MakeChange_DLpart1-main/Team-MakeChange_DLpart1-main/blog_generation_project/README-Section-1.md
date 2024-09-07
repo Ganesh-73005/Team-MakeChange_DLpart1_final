@@ -1,14 +1,14 @@
 
 ---
 
-## Blog Generation Project
+## WikiHow Content Generation Project
 
-This project scrapes random blog posts from WikiHow, extracts subheadings and paragraphs, and stores them in a CSV file. The project utilizes Python libraries like `requests` and `BeautifulSoup` for web scraping and `csv` for data storage.Upcoming[The fine-tuning of language models is performed using Google Colab notebooks.]
+This project scrapes random blog posts from WikiHow, extracts subheadings and paragraphs, and stores them in a CSV file. The project utilizes Python libraries like `requests` and `BeautifulSoup` for web scraping and `csv` for data storage.Upcoming [ The fine-tuning of language models is performed using Google Colab notebooks.](./README-Section-2.md)
 
 ### Project Structure
 
 ```
-blog_generation_project/
+Wikihow_content_generation_project/
 │
 ├── data/
 │   └── wikihow.csv            # Scraped data with columns: Article Title, Sub heading, paragraph
